@@ -1,8 +1,22 @@
 /* add css styles here (optional) */
 
-.test {
-  display: inline-block;
-  margin: 2em auto;
-  border: 2px solid #000;
-  font-size: 2em;
+.input {
+  border: 1px solid transparent;
+  background-color: #f1f1f1;
+  padding: 5px;
+  font-size: 16px;
+}
+
+ul {
+  list-style:none;
+  padding: 10px;
+  margin: 0;
+  display:block;
+  width:227px;
+}
+
+li {
+  margin:0;
+  padding: 0;
+  width: 200px;
 }
